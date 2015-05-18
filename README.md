@@ -1,6 +1,6 @@
 # embed-an-inkpad
 
-Ruby gem to allow an simple embedding of a rendered Inkpad document within your custom Rails project.
+Ruby gem to allow a simple embedding of a rendered Inkpad document within your custom Rails project.
 
 
 ## Why?
